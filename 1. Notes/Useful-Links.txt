@@ -1,0 +1,69 @@
+**Devices Online**
+https://www.shodan.io/search?query=uc-httpd+1.0.0
+
+Exploit & News writeups
+https://lfto.me/reverse-engineering-dvr-firmware/
+https://github.com/tothi/hs-dvr-telnet
+https://github.com/tothi/pwn-hisilicon-dvr/blob/master/README.adoc
+https://www.exploit-db.com/docs/english/44003-hisilicon-dvr-hack.pdf
+https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=https%3A%2F%2Fwww.cnblogs.com%2Fmmseh%2Fp%2F6537924.html
+https://www.stuff.za.net/2016/05/notes-on-hacking-an-aprica-8-channel-cctv/
+https://news.slashdot.org/story/16/06/27/2157204/a-massive-botnet-of-cctv-cameras-involved-in-ferocious-ddos-attacks
+https://www.stuff.za.net/2016/05/notes-on-hacking-an-aprica-8-channel-cctv/
+http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html
+https://habr.com/en/post/486856/
+
+cctv firmware & useful tangents
+https://fccid.io/
+https://itsjack.cc/blog/2015/04/unpacking-cctv-firmware/
+https://www.enster.com/faq/Link-for-downloading-DVRNVR-fi.html
+https://www.youtube.com/watch?v=gEC_F_DsAZQ
+https://www.youtube.com/watch?v=2vzOqIgBW9o
+https://www.winbond.com/resource-files/w25q128fv%20rev.m%2005132016%20kms.pdf
+http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html
+
+kELVON SECURITY lINKS 
+https://www.facebook.com/watch/?v=385601868752495
+CCTV Hacking Frameworks
+
+- Cameradar hacks its way into RTSP videosurveillance cameras
+- https://github.com/Ullaakut/cameradar
+
+- camerattack
+- An attack tool designed to remotely disable CCTV camera streams (like in spy movies)
+- https://github.com/Ullaakut/camerattack
+
+- DIY hack for a complete CCTV solution using open source software and smartphones.
+- https://github.com/tapans/DIY-Surveillance-with-Smartphones
+
+- Xiaomi Mijia-720P camera hack
+- https://github.com/ghoost82/mijia-720p-hack
+
+- web-cam-bruteforcer
+- Simple and convenient software for hacking other people's cameras.
+- https://github.com/Frago9876543210/web-cam-bruteforcer
+
+- Yi-hack project
+- Xiaomi Yi Ants camera hack
+- https://github.com/fritz-smh/yi-hack
+
+- IP Cam Shell is a command line script for testing and exploiting a wide range of IP cameras as demonstrated by Craig Heffner in "Exploiting
+- https://github.com/nmalcolm/ipcamshell
+
+- USB Joystick adapter for CCTV Camera Pelco-D Pan-Tilt-Zoom Over RS485
+- https://github.com/boxofrox/cctv-ptz
+
+- Hacks for ZS-GX1 IP Camera and various Goke GK7102 based IP Cameras
+- https://github.com/ant-thomas/zsgx1hacks
+
+- Hack a webcam with a smartphone
+- https://medium.com/bugbountywriteup/hack-a-webcam-with-a-smartphone-fa8f57c692c5
+
+- hikvision Brute Force
+- https://github.com/Frago9876543210/hikvision-bruteforcer
+
+- like hacking, this is a brutefore for DVR - camara HIKVision
+- https://github.com/eduffis/bruteforece
+
+- Wireless Hacking, WiFi Security, Vulnerability Analyzer, Pentestration
+-https://github.com/NORMA-Inc/AtEar
