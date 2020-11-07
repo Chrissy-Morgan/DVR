@@ -6,7 +6,7 @@ This is to see if any improvements have been made in recent years as research an
 
 # Notable Mentions
 Notable resources to mention of which this research would not have been possible is the work undertaken by Istvan Toth Github POC’s [Tothi, 2017](https://github.com/tothi/pwn-hisilicon-dvr) who undertook research upon many CCTV DVR's firmwares to discover multiple vulnerabilities. 
-([Vlad)](https://twitter.com/snawoot) who has uncovered further zero days within devices ([Habr, 2020)](https://habr.com/en/post/486856/) and [CyberGibbons](https://twitter.com/cybergibbons)  who has done extensive work over the years on DVR hacking and has produced great Hardware walkthroughs [CyberGibbons.com,2020](https://cybergibbons.com/hardware-hacking/identifying-security-relevant-components-in-a-dvr/)
+[Vlad](https://twitter.com/snawoot) who has uncovered further zero days within devices ([Habr, 2020](https://habr.com/en/post/486856/)) and [CyberGibbons](https://twitter.com/cybergibbons)  who has done extensive work over the years on DVR hacking and has produced great Hardware walkthroughs ([CyberGibbons.com, 2020](https://cybergibbons.com/hardware-hacking/identifying-security-relevant-components-in-a-dvr/))
 
 # Overview
 It has been observed that there are multiple vulnerabilities in CCTV DVR’s purchased by consumers and that these vulnerabilities are indeed exploited in the wild. These can either be directly accessed by viewers via websites such as Insecam ([Information Security Magazine](https://www.infosecurity-magazine.com/news/uk-security-cameras-risk-hacking/), 2020) or have been known to be actively exploited to be part of botnets ([threatpost](https://threatpost.com/hackers-exploited-0-day-cctv-camera/154051/), 2020).
