@@ -1,20 +1,22 @@
 # DVR Security Evolution
 
 # Introduction
+A review has been undertaken on devices which are available online for purchase at consumer sites such as Ebay and Amazon. 
+This is to see if any improvements have been made in recent years as research and exploits have been made public within this area. Where possible conduct comparisons between models and firmwares. It is hoped to provide a methodology for researchers to test against or to learn from if new to DVR hacking. Results will be published by January 2021, if you have research and would like to contribute to the results listed please contact [Chrissy Morgan](https://twitter.com/5w0rdFish).
+
+# Notable Mentions
+Notable resources to mention of which this research would not have been possible is the work undertaken by Istvan Toth Github POC’s [Tothi, 2017](https://github.com/tothi/pwn-hisilicon-dvr) who undertook research upon many CCTV DVR's firmwares to discover multiple vulnerabilities. 
+([Vlad)](https://twitter.com/snawoot) who has uncovered further zero days within devices ([Habr, 2020)](https://habr.com/en/post/486856/) and [CyberGibbons](https://twitter.com/cybergibbons)  who has done extensive work over the years on DVR hacking and has produced great Hardware walkthroughs [CyberGibbons.com,2020](https://cybergibbons.com/hardware-hacking/identifying-security-relevant-components-in-a-dvr/)
+
+# Overview
 It has been observed that there are multiple vulnerabilities in CCTV DVR’s purchased by consumers and that these vulnerabilities are indeed exploited in the wild. These can either be directly accessed by viewers via websites such as Insecam ([Information Security Magazine](https://www.infosecurity-magazine.com/news/uk-security-cameras-risk-hacking/), 2020) or have been known to be actively exploited to be part of botnets ([threatpost](https://threatpost.com/hackers-exploited-0-day-cctv-camera/154051/), 2020).
 Consumers may find it particularly hard to purchase a “secure device” currently for home or business use, as there is little to no indication without undertaking their own research if that device is insecure or not. 
-
 
 Services such as Which ([Which](https://www.which.co.uk/news/2019/10/the-cheap-security-cameras-inviting-hackers-into-your-home/), 2019) release reports advising consumers, but there are literally thousands of different types, models and brands on the open market, sold online at places such as Amazon which can make it difficult for consumers. In addition to this, many of these will use generic boards, firmwares and chips which may be vulnerable and there is not much way of checking prior to purchasing the item. Initiatives exists to improve IoT security with projects such as the OWASP IOT, 
 ([Code of Practices for Consumer IoT ](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/773867/Code_of_Practice_for_Consumer_IoT_Security_October_2018.pdf)) and now more recently European standardisation which provides a baseline requirement for the Internet of things ([ETSI EN 303 645]( https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf))
 
 
 One piece of information which can be seen when purchasing an IoT device online is its release date or  “Date First Available”. It is anticipated that newer devices would be sold with additional security features or updates included, but this is an assumption. It may take some time before manufacturers adopt the standards and best practice, and where international suppliers are concerned, these may not be adopted at all. 
-
-This research asks the question “Has CCTV DVR security improved in recent years” to document the DVR security evolution and present findings which may outline the current state of DVR Security within a sample set of consumer devices. 
-
-A review has been undertaken on devices which are available online for purchase at consumer sites such as Ebay and Amazon. 
-This is to see if any improvements have been made in recent years since as research and exploits have been made public within this area. Where possible conduct comparisons between models and firmwares.
 
 This is currently a small sample study, however a collection of sample firmwares has been collected for future research and comparison.
 As research continues, further products will be listed in the results tables and updated with findings. 
